@@ -14,7 +14,7 @@ Este projeto contém vários scripts em JavaScript para resolver diferentes prob
 ## Como Usar
 
 1. Clone o repositório.
-2. Abra o arquivo `index.html` em um navegador.
+2. Abra o arquivo `index.html` em um navegador Utilizando extesão Live serve no Vscode. 
 3. Abra o console do navegador para ver os resultados dos scripts.
 
 ---
